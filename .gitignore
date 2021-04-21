@@ -3,3 +3,7 @@ venv/
 build/
 *.txt
 tabs_codes.txt
+!requirements.txt
+__pycache__/
+dist/
+generate.spec
